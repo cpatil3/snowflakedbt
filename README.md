@@ -1,2 +1,2 @@
-# snowflakedbt
+# SNOWFLAKEDBT
 For Snowflake and DBT work
